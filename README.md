@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mashooque Ali
 
-<!--
-**alimashooquee-hub/alimashooquee-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* BS Data Science (2nd Year) Student at the University of Management and Technology (UMT), Lahore.
+* Passionate about technology, web development, and data science.
+* Currently learning and improving my programming and problem-solving skills.
+* Interested in Data Science, Machine Learning, and Full-Stack Development.
+* Always eager to learn new technologies and build meaningful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+---
+
+## Currently Working On
+
+* Enhancing my web development skills.
+* Learning core concepts of Data Science.
+* Building academic and personal projects.
+
+---
+
+## Connect With Me
+
+
+---
+
+## Quote
+
+> "The expert in anything was once a beginner."
